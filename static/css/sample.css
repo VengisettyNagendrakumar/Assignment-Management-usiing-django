@@ -1,0 +1,25 @@
+h3{
+	margin-left: 35%;
+	margin-right: 35%;
+	padding: 5px;
+	border: 1px solid green;
+	border-radius: 12px;
+	text-align: center;
+	background: palegoldenrod;
+}
+form{
+	margin-left: 35%;
+	margin-right: 35%;
+	padding: 15px;
+	border: 2px solid red;
+	border-radius: 12px;
+
+}
+label,input{
+	margin-top: 4px;
+	width: 100%;
+
+}
+#p{
+	float: right;
+}
